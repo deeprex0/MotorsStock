@@ -1,0 +1,7 @@
+MotorA 100
+MotorB 200
+MotorC 300
+MotorD 400
+MotorE 500
+daibbar 3243
+aldsmflsadj 245

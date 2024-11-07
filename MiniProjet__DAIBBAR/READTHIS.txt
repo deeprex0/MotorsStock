@@ -1,0 +1,4 @@
+Le stockqge du programme ne contient que 2 motos predefinis deja loue par les deux adherents : mohamed et amine, 
+vous pouvez donc ajouter votre propre motos ou vous pouvez rendre les motos emprunte par amine et mohamed
+Attention! eviter toute manipulation dans les fichiers le programme est deja conscu pour stocker toutes les informations 
+entres par l'utilisateur dans les fichiers
